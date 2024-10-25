@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Pedro de Robles</h1>
-<h3 align="center">I am Backend Developer with Laravel</h3>
+<h3 align="center">I am Backend Developer with PHP Laravel</h3>
 
 - 🔭 I’m currently working on [YouTube replica](https://github.com/PedrodeRobles/Youtube)
 
-- 🌱 I’m currently learning **Vue, Python and more PHP**
+- 🌱 I’m currently learning **More PHP and Maths**
 
 - 💬 Ask me about **Laravel, PHP, HTML, CSS, Javascript and Vue**
 
